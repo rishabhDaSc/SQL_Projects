@@ -1,1 +1,1 @@
-# SQL_Projects to improve SQL Skills 
+SQL_Projects to improve SQL Skills 
